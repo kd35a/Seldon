@@ -7,4 +7,5 @@ books about the Foundation by Isaac Asimov.
 
 ## License
 WTFPLv2 - Do What The Fuck You Want To Public License, version 2
+
 See the file LICENSE for details.
