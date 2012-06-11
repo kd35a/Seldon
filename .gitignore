@@ -1,0 +1,9 @@
+bin/
+*.class
+*.swp
+
+# Eclipse related files/folders
+.classpath
+.project
+.settings/
+
